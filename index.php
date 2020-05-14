@@ -84,7 +84,7 @@
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="index.html">UET CHATBOT</a>
+                <a class="navbar-brand" href="index.html">CHAT WITH LOV3</a>
             </div>
             
         </div>
@@ -99,13 +99,13 @@
                     <img src="images/user.jpg" width="48" height="48" alt="User" />
                 </div>
                 <div class="info-container">
-                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">UET ChatBot</div>
+                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Luv Me Pls</div>
                     <div class="btn-group user-helper-dropdown">
                         <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                         <ul class="dropdown-menu pull-right">
-                            <li><a href="https://www.facebook.com/UETVNUChatBot"><i class="material-icons">person</i>Fanpage</a></li>
+                            <li><a href="https://www.facebook.com/LuvInLov3"><i class="material-icons">person</i>Fanpage</a></li>
                             <li role="separator" class="divider"></li>
-                            <li><a href="https://m.me/UETVNUChatBot"><i class="material-icons">message</i>Inbox</a></li>
+                            <li><a href="https://m.me/LuvInLov3"><i class="material-icons">message</i>Inbox</a></li>
                         </ul>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; 2018 - 20xx <a href="https://www.facebook.com/UETVNUChatBot">UET CHATBOT</a>.
+                    &copy; 2018 - 20xx <a href="https://www.facebook.com/LuvInLov3">CHAT WITH LOV3</a>.
                 </div>
                 <div class="version">
                     <b>Version: </b> 1.0.0
@@ -268,7 +268,7 @@
 				  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.1&appId=266578183986233&autoLogAppEvents=1';
 				  fjs.parentNode.insertBefore(js, fjs);
 				}(document, 'script', 'facebook-jssdk'));</script>
-				<div class="fb-page" data-href="https://www.facebook.com/UETVNUChatBot" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UETVNUChatBot" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UETVNUChatBot">UET ChatBot</a></blockquote></div>
+				<div class="fb-page" data-href="https://www.facebook.com/LuvInLov3" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UETVNUChatBot" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UETVNUChatBot">UET ChatBot</a></blockquote></div>
 			</div>
         </div>
     </section>
