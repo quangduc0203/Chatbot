@@ -1,5 +1,4 @@
-
-<?php
+ <?php
 require_once 'config.php'; //lấy thông tin từ config
 $conn = mysqli_connect($DBHOST, $DBUSER, $DBPW, $DBNAME); // kết nối data
 $id = $_POST['id'];
@@ -218,3 +217,15 @@ echo'{
 }
 
 ?>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
