@@ -1,4 +1,3 @@
-
 <?php
 $ID = $_POST['ID']; // lấy id từ chatfuel
 $gioitinh = $_POST['gt'];// lấy giới tính
